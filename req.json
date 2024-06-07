@@ -1,0 +1,62 @@
+{
+    "dataFilters": [
+        {
+            "entityName": "Indicator",
+            "orderIndex": "2",
+            "values": [
+                "CG0010"
+            ]
+        },
+        {
+            "entityName": "Country",
+            "orderIndex": "4",
+            "values": [
+                "USA","UKR"
+            ]
+        },
+        {
+            "entityName": "Year",
+            "orderIndex": "6",
+            "values": [
+                "2021","2020","2019","2018","2017","2016"
+            ]
+        }
+    ],
+    "divisionFactors": [
+        {
+            "entityName": "AgeGroup",
+            "orderIndex": "3",
+            "values": [
+                "Age_all",
+                "Age00",
+                "Age01_04",
+                "Age05_14",
+                "Age15_24",
+                "Age25_34",
+                "Age35_54",
+                "Age55_74",
+                "Age75_over",
+                "Age_unknown"
+            ]
+        },
+        {
+            "entityName": "Sex",
+            "orderIndex": "5",
+            "values": [
+                "1",
+                "2",
+                "0",
+                "9"
+            ]
+        }
+    ],
+    "query": [
+        {
+            "fact": "Number",
+            "min": "0",
+            "max": "100000000",
+            "limit": "",
+            "languageCode": "EN"
+        }
+    ]
+}

@@ -1,0 +1,514 @@
+[
+    {
+        "key": "EU",
+        "label": "Europe",
+        "value": [
+            {
+                "key": "ALB",
+                "label": "Albania"
+            },
+            {
+                "key": "AUT",
+                "label": "Austria"
+            },
+            {
+                "key": "BLR",
+                "label": "Belarus"
+            },
+            {
+                "key": "BEL",
+                "label": "Belgium"
+            },
+            {
+                "key": "BIH",
+                "label": "Bosnia and Herzegovina"
+            },
+            {
+                "key": "BGR",
+                "label": "Bulgaria"
+            },
+            {
+                "key": "HRV",
+                "label": "Croatia"
+            },
+            {
+                "key": "CZE",
+                "label": "Czechia"
+            },
+            {
+                "key": "DNK",
+                "label": "Denmark"
+            },
+            {
+                "key": "EST",
+                "label": "Estonia"
+            },
+            {
+                "key": "FIN",
+                "label": "Finland"
+            },
+            {
+                "key": "FRA",
+                "label": "France"
+            },
+            {
+                "key": "DEU",
+                "label": "Germany"
+            },
+            {
+                "key": "GRC",
+                "label": "Greece"
+            },
+            {
+                "key": "HUN",
+                "label": "Hungary"
+            },
+            {
+                "key": "ISL",
+                "label": "Iceland"
+            },
+            {
+                "key": "IRL",
+                "label": "Ireland"
+            },
+            {
+                "key": "ITA",
+                "label": "Italy"
+            },
+            {
+                "key": "LVA",
+                "label": "Latvia"
+            },
+            {
+                "key": "LTU",
+                "label": "Lithuania"
+            },
+            {
+                "key": "LUX",
+                "label": "Luxembourg"
+            },
+            {
+                "key": "MLT",
+                "label": "Malta"
+            },
+            {
+                "key": "MNE",
+                "label": "Montenegro"
+            },
+            {
+                "key": "NLD",
+                "label": "Netherlands"
+            },
+            {
+                "key": "MKD",
+                "label": "North Macedonia"
+            },
+            {
+                "key": "NOR",
+                "label": "Norway"
+            },
+            {
+                "key": "POL",
+                "label": "Poland"
+            },
+            {
+                "key": "PRT",
+                "label": "Portugal"
+            },
+            {
+                "key": "MDA",
+                "label": "Republic of Moldova"
+            },
+            {
+                "key": "ROU",
+                "label": "Romania"
+            },
+            {
+                "key": "RUS",
+                "label": "Russian Federation"
+            },
+            {
+                "key": "SRB",
+                "label": "Serbia"
+            },
+            {
+                "key": "SVK",
+                "label": "Slovakia"
+            },
+            {
+                "key": "SVN",
+                "label": "Slovenia"
+            },
+            {
+                "key": "ESP",
+                "label": "Spain"
+            },
+            {
+                "key": "SWE",
+                "label": "Sweden"
+            },
+            {
+                "key": "CHE",
+                "label": "Switzerland"
+            },
+            {
+                "key": "UKR",
+                "label": "Ukraine"
+            },
+            {
+                "key": "GBR",
+                "label": "United Kingdom of Great Britain and Northern Ireland"
+            }
+        ]
+    },
+    {
+        "key": "AS",
+        "label": "Asia",
+        "value": [
+            {
+                "key": "ARM",
+                "label": "Armenia"
+            },
+            {
+                "key": "AZE",
+                "label": "Azerbaijan"
+            },
+            {
+                "key": "BHR",
+                "label": "Bahrain"
+            },
+            {
+                "key": "BRN",
+                "label": "Brunei Darussalam"
+            },
+            {
+                "key": "HKG",
+                "label": "China, Hong Kong SAR"
+            },
+            {
+                "key": "CYP",
+                "label": "Cyprus"
+            },
+            {
+                "key": "GEO",
+                "label": "Georgia"
+            },
+            {
+                "key": "IRN",
+                "label": "Iran (Islamic Republic of)"
+            },
+            {
+                "key": "IRQ",
+                "label": "Iraq"
+            },
+            {
+                "key": "ISR",
+                "label": "Israel"
+            },
+            {
+                "key": "JPN",
+                "label": "Japan"
+            },
+            {
+                "key": "JOR",
+                "label": "Jordan"
+            },
+            {
+                "key": "KAZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "key": "KWT",
+                "label": "Kuwait"
+            },
+            {
+                "key": "KGZ",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "key": "LBN",
+                "label": "Lebanon"
+            },
+            {
+                "key": "MYS",
+                "label": "Malaysia"
+            },
+            {
+                "key": "MDV",
+                "label": "Maldives"
+            },
+            {
+                "key": "MNG",
+                "label": "Mongolia"
+            },
+            {
+                "key": "OMN",
+                "label": "Oman"
+            },
+            {
+                "key": "PHL",
+                "label": "Philippines"
+            },
+            {
+                "key": "QAT",
+                "label": "Qatar"
+            },
+            {
+                "key": "KOR",
+                "label": "Republic of Korea"
+            },
+            {
+                "key": "SAU",
+                "label": "Saudi Arabia"
+            },
+            {
+                "key": "SGP",
+                "label": "Singapore"
+            },
+            {
+                "key": "LKA",
+                "label": "Sri Lanka"
+            },
+            {
+                "key": "SYR",
+                "label": "Syrian Arab Republic"
+            },
+            {
+                "key": "TJK",
+                "label": "Tajikistan"
+            },
+            {
+                "key": "THA",
+                "label": "Thailand"
+            },
+            {
+                "key": "TUR",
+                "label": "T\u00FCrkiye"
+            },
+            {
+                "key": "TKM",
+                "label": "Turkmenistan"
+            },
+            {
+                "key": "ARE",
+                "label": "United Arab Emirates"
+            },
+            {
+                "key": "UZB",
+                "label": "Uzbekistan"
+            }
+        ]
+    },
+    {
+        "key": "NAC",
+        "label": "North America and the Caribbean",
+        "value": [
+            {
+                "key": "ATG",
+                "label": "Antigua and Barbuda"
+            },
+            {
+                "key": "BHS",
+                "label": "Bahamas"
+            },
+            {
+                "key": "BRB",
+                "label": "Barbados"
+            },
+            {
+                "key": "CAN",
+                "label": "Canada"
+            },
+            {
+                "key": "CUB",
+                "label": "Cuba"
+            },
+            {
+                "key": "DMA",
+                "label": "Dominica"
+            },
+            {
+                "key": "DOM",
+                "label": "Dominican Republic"
+            },
+            {
+                "key": "GRD",
+                "label": "Grenada"
+            },
+            {
+                "key": "GLP",
+                "label": "Guadeloupe"
+            },
+            {
+                "key": "JAM",
+                "label": "Jamaica"
+            },
+            {
+                "key": "MTQ",
+                "label": "Martinique"
+            },
+            {
+                "key": "PRI",
+                "label": "Puerto Rico"
+            },
+            {
+                "key": "KNA",
+                "label": "Saint Kitts and Nevis"
+            },
+            {
+                "key": "LCA",
+                "label": "Saint Lucia"
+            },
+            {
+                "key": "VCT",
+                "label": "Saint Vincent and the Grenadines"
+            },
+            {
+                "key": "TTO",
+                "label": "Trinidad and Tobago"
+            },
+            {
+                "key": "USA",
+                "label": "United States of America"
+            }
+        ]
+    },
+    {
+        "key": "CSA",
+        "label": "Central and South America",
+        "value": [
+            {
+                "key": "ARG",
+                "label": "Argentina"
+            },
+            {
+                "key": "BLZ",
+                "label": "Belize"
+            },
+            {
+                "key": "BRA",
+                "label": "Brazil"
+            },
+            {
+                "key": "CHL",
+                "label": "Chile"
+            },
+            {
+                "key": "COL",
+                "label": "Colombia"
+            },
+            {
+                "key": "CRI",
+                "label": "Costa Rica"
+            },
+            {
+                "key": "ECU",
+                "label": "Ecuador"
+            },
+            {
+                "key": "SLV",
+                "label": "El Salvador"
+            },
+            {
+                "key": "GUF",
+                "label": "French Guiana"
+            },
+            {
+                "key": "GTM",
+                "label": "Guatemala"
+            },
+            {
+                "key": "GUY",
+                "label": "Guyana"
+            },
+            {
+                "key": "MEX",
+                "label": "Mexico"
+            },
+            {
+                "key": "NIC",
+                "label": "Nicaragua"
+            },
+            {
+                "key": "PAN",
+                "label": "Panama"
+            },
+            {
+                "key": "PRY",
+                "label": "Paraguay"
+            },
+            {
+                "key": "PER",
+                "label": "Peru"
+            },
+            {
+                "key": "SUR",
+                "label": "Suriname"
+            },
+            {
+                "key": "URY",
+                "label": "Uruguay"
+            },
+            {
+                "key": "VEN",
+                "label": "Venezuela (Bolivarian Republic of)"
+            }
+        ]
+    },
+    {
+        "key": "AF",
+        "label": "Africa",
+        "value": [
+            {
+                "key": "CPV",
+                "label": "Cabo Verde"
+            },
+            {
+                "key": "EGY",
+                "label": "Egypt"
+            },
+            {
+                "key": "MUS",
+                "label": "Mauritius"
+            },
+            {
+                "key": "MYT",
+                "label": "Mayotte"
+            },
+            {
+                "key": "REU",
+                "label": "R\u00E9union"
+            },
+            {
+                "key": "STP",
+                "label": "Sao Tome and Principe"
+            },
+            {
+                "key": "SYC",
+                "label": "Seychelles"
+            },
+            {
+                "key": "ZAF",
+                "label": "South Africa"
+            }
+        ]
+    },
+    {
+        "key": "OA",
+        "label": "Oceania",
+        "value": [
+            {
+                "key": "AUS",
+                "label": "Australia"
+            },
+            {
+                "key": "FJI",
+                "label": "Fiji"
+            },
+            {
+                "key": "NZL",
+                "label": "New Zealand"
+            }
+        ]
+    }
+]
